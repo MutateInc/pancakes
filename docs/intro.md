@@ -1,11 +1,10 @@
----
-sidebar_position: 2
----
+# Introducción al proyecto
 
-# Tutorial Intro
+## Acerca de SICSSA
+## Necesidad
+## Objetivos
+## Quienes somos
+## Plan de proyecto
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
 
 
