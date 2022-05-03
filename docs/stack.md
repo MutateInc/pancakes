@@ -1,0 +1,1 @@
+# Stack de tecnología
