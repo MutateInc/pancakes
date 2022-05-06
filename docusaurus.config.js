@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Pancakes',
   tagline: 'Una línea de código a la vez',
-  url: 'https://Mutate.github.io/pancakes/',
-  baseUrl: '/pancakes',
+  url: 'https://Mutate.github.io',
+  baseUrl: '/pancakes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/pancakes.svg',
