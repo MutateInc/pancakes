@@ -9,7 +9,7 @@ const config = {
   title: 'Pancakes',
   tagline: 'Una línea de código a la vez',
   url: 'https://Mutate.github.io/pancakes/',
-  baseUrl: '/',
+  baseUrl: '/pancakes',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/pancakes.svg',
