@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpancakes=self.webpackChunkpancakes||[]).push([[723],{4054:function(a){a.exports=JSON.parse('{"permalink":"/pancakes/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

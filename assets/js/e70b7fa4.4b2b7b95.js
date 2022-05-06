@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpancakes=self.webpackChunkpancakes||[]).push([[323],{767:function(a){a.exports=JSON.parse('{"permalink":"/pancakes/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

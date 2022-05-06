@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpancakes=self.webpackChunkpancakes||[]).push([[865],{9228:function(a){a.exports=JSON.parse('{"allTagsPath":"/pancakes/blog/tags","name":"hello","count":2,"permalink":"/pancakes/blog/tags/hello"}')}}]);
